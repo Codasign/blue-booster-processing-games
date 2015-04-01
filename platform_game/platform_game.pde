@@ -6,10 +6,10 @@
  Part of Superpowers Workshops by Codasign
  
  Use the arrow keys to move Blue Booster 
- around the window. Try to find the hidden
- treasure while not hitting the baddie.
+ to jump on the platforms. Try to reach the
+ goal while not hitting the baddie.
  
- This file is part of Blue Booster Hidden Game.
+ This file is part of Blue Booster Platform Game.
  
  Blue Booster Platform Game is free software: you can redistribute it 
  and/or modify it under the terms of the GNU General Public License 
